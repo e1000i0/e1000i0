@@ -1,6 +1,6 @@
 ### Hi, I'm Emilio 👋
 
-**DAM student (Multiplatform App Development) on the road to data engineering.** Based in Huelva, Spain · open to remote.
+**Multiplatform App Development student on the road to data engineering.** Based in Huelva, Spain · open to remote.
 
 Before software I spent eight years in hands-on technical and operations jobs: live-event sound and RF, heavy machinery, logistics. Now I'm building with code and learning to move data reliably from source to insight.
 
