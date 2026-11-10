@@ -1,8 +1,6 @@
 ### Hi, I'm Emilio 👋
 
-**Multiplatform Apps Development student on the road to data engineering.** Based in Huelva, Spain · open to remote.
-
-Before software I spent eight years in hands-on technical and operations jobs: live-event sound and RF, heavy machinery, logistics. Now I'm building with code and learning to move data reliably from source to insight.
+**Multiplatform Apps Development student.** Based in Huelva, Spain · open to remote.
 
 **Currently**
 - 🧥 Building [HANGER](https://github.com/e1000i0/PI_ERV-2DAM-B), a virtual wardrobe app: Spring Boot API, Ionic/Angular client, MySQL
